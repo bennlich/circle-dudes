@@ -1,6 +1,4 @@
 circle-dudes
 ============
 
-circle dudes
-
-I'm just trying out github
+This is a sweet visualization we made at Benny's house!
