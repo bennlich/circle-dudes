@@ -9,8 +9,8 @@ var WIDTH, HEIGHT;
 
 function init() {
 	myCanvas = document.getElementById("myCanvas");
-	WIDTH = myCanvas.width = document.width;
-	HEIGHT = myCanvas.height = document.height;
+	WIDTH = myCanvas.width = window.innerWidth;
+	HEIGHT = myCanvas.height = window.innerHeight;
 
 	myCtx = myCanvas.getContext("2d");
 
